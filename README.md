@@ -3,7 +3,6 @@
 **Identitas Mahasiswa:**
 * **Nama:** Ahmad Titana Nanda Pramuda
 * **NIM:** 23111102042
-* **Mata Kuliah:** Aplikasi Berbasis Platform (Semester 6)
 
 ---
 
